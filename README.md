@@ -14,8 +14,25 @@ Este projeto é um exercício prático para reforçar conceitos de **lógica de 
 
 ---
 
-## 📂 Estrutura do Projeto
+## 🚀 Última Atualização
+Data: Julho de 2025
+Descrição:
 
-estudo-sistema-bancario/
-├── sistema_bancario.py # Código principal do sistema
-└── README.md # Documentação do projeto
+Inclusão de cores no terminal utilizando códigos ANSI para melhor visualização
+
+Melhorias no menu interativo
+
+Mensagens de sucesso e erro com destaques visuais
+
+Comentários explicativos no código para facilitar o entendimento
+
+Organização de funções com parâmetros e retorno de valores atualizados
+
+
+
+## 🛠 Tecnologias utilizadas
+Python 3.x
+
+Biblioteca textwrap para organizar exibição dos textos
+
+Códigos de cores ANSI para terminais compatíveis
